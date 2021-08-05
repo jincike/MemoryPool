@@ -1,0 +1,7 @@
+﻿  memoryPool.cpp
+    正在创建库 X:\Project\MemoryPool\MemoryPool\Release\MemoryPool.lib 和对象 X:\Project\MemoryPool\MemoryPool\Release\MemoryPool.exp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 14 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  MemoryPool.vcxproj -> X:\Project\MemoryPool\MemoryPool\Release\MemoryPool.dll
